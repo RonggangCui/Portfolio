@@ -24,7 +24,7 @@ const greeting = {
   subTitle:
     "A software developer who always thrives to work on projects which develop sustainable and scalable social and technical systems to create impact.",
   resumeLink:
-    "https://drive.google.com/file/d/1n3ihxrpDQGOHEsZ574lShSX_YiHIcDS3/view?usp=sharing",
+    "https://drive.google.com/file/d/1U54w9ydRyzzEkWbSafGX5bPpWREYiMLR/view?usp=sharing",
   portfolio_repository: "https://github.com/RonggangCui/Portfolio.git",
   githubProfile: "https://github.com/RonggangCui",
 };
