@@ -314,7 +314,7 @@ const contactPageData = {
   },
   addressSection: {
     title: "Contact Me",
-    subtitle: "Emamil: rongcuidev@gmail.com | Mobile Number: 289-556-6464",
+    subtitle: "Email: rongcuidev@gmail.com | Mobile Number: 289-556-6464",
   },
   phoneSection: {
     title: "",
