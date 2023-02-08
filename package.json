@@ -1,7 +1,7 @@
 {
   "private": true,
-  "name": "RonggangPortfolio",
-  "homepage": "https://ronggangcui.github.io",
+  "name": "Ronggang Portfolio",
+  "homepage": "https://ronggangcui.netlify.app/",
   "version": "0.1.0",
   "scripts": {
     "build": "react-scripts build",
