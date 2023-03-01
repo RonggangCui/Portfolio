@@ -237,10 +237,10 @@ const experience = {
   header_image_path: "experience.svg",
   sections: [
     {
-      title: "Internships",
+      title: "Professional Experience",
       experiences: [
         {
-          title: "Software Developer",
+          title: "Software Developer (Capstone Partner)",
           company: "Zero Rampup Technologies",
           company_url: "https://legatohealthtech.com/",
           logo_path: "legato_logo.png",
