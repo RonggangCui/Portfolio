@@ -54,9 +54,9 @@ const skills = {
       title: "Full Stack Development",
       fileName: "FullStackImg",
       skills: [
-        "⚡ Building responsive website front end using React-Redux",
-        "⚡ Developing mobile applications using Flutter, React and solo android apps using Java",
-        "⚡ Creating application backend in Node, and Flask",
+        "⚡ Building responsive website front end using React",
+        "⚡ Developing iOS applications using Swift android apps using Java",
+        "⚡ Creating web application backend in Node, and Flask",
       ],
       softwareSkills: [
         {
@@ -95,30 +95,16 @@ const skills = {
             color: "#339933",
           },
         },
-        {
-          skillName: "Flutter",
-          fontAwesomeClassname: "simple-icons:flutter",
-          style: {
-            color: "#02569B",
-          },
-        },
       ],
     },
     {
-      title: "Cloud Infra-Architecture",
+      title: "Cloud Computing",
       fileName: "CloudInfraImg",
       skills: [
         "⚡ Experience working on multiple cloud platforms",
         "⚡ Hosting and maintaining websites on virtual machine instances along with integration of databases",
       ],
       softwareSkills: [
-        {
-          skillName: "AWS",
-          fontAwesomeClassname: "simple-icons:amazonaws",
-          style: {
-            color: "#FF9900",
-          },
-        },
         {
           skillName: "Firebase",
           fontAwesomeClassname: "simple-icons:firebase",
